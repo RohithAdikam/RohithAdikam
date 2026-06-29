@@ -1,4 +1,20 @@
+# Hi 👋, I'm Rohith
 
+💻 AI & Machine Learning Student
+🌱 Learning React, Python, Django
+🚀 Building Weather Apps & ML Projects
+
+## Skills
+- Python
+- JavaScript
+- HTML & CSS
+- React
+- Django
+- Machine Learning
+
+## Connect with me
+- LinkedIn: Your Link
+- Portfolio: Your Link
 <!--
 **RohithAdikam/RohithAdikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

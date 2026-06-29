@@ -13,8 +13,8 @@
 - Machine Learning
 
 ## Connect with me
-- LinkedIn: Your Link
-- Portfolio: Your Link
+- LinkedIn: ADIKAM ROHITH
+- INSTAGRAM:https://www.instagram.com/rohith_.20._?igsh=ZnNqN3Awc2x3ajQ%3D&utm_source=qr
 <!--# 💼 Job & Career Emojis
 
 💼 Software Engineer

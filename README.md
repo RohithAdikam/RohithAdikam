@@ -2,14 +2,14 @@
 I want you to transform my GitHub profile README.
 Do NOT ask me any questions. Just execute everything.
 MY DETAILS:
-Name: [YOUR NAME]
-Role: [YOUR ROLE]
-Experience: [X] years
-Tech Stack: [LIST YOUR TECHNOLOGIES]
-YouTube: [YOUR YOUTUBE URL] - [X] subscribers
-Medium: [YOUR MEDIUM URL] - [X] followers
-Instagram: [YOUR INSTAGRAM URL] - [X] followers
-LinkedIn: [YOUR LINKEDIN URL]
+Name: Rohith
+Role: web devolper
+Experience: fresher
+Tech Stack: python,java script,html,css,full stack devolopement
+
+Instagram: (https://www.instagram.com/rohith_.20._?igsh=ZnNqN3Awc2x3ajQ%3D&utm_source=qr) - [X] followers
+LinkedIn:
+www.linkedin.com/in/rohith-adikam-101aa1293
 Portfolio:
 [YOUR WEBSITE URL]
 INSTRUCTIONS - DO ALL OF THIS AUTOMATICALLY:
